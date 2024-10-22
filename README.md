@@ -24,14 +24,14 @@ The following Power Bi features were incorporated
 - A KPI visual is used to measure performance of the current month to the previous month
 - Numeric Range and Field parameters were created for scenario analysis to examine impact on a given output like impact on REVENUE/PROFIT when the price of product is adjusted by a certain percentage
 ## Visualization
-The report comprises of four(4) pages:
+The report comprises of five(5) pages:
 - Executive Brief
 - Global Map
 - Product's details
 - Country's details
 - Customer's details
 
-You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMGRhZTNmMTQtMDIyZC00ZGE5LTkyMWUtM2JkYTkwYTRhOTkyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYTcyMjgyYWQtYjA0Mi00Y2EwLTlkN2EtYjUyY2Q1YjAzMDdiIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
 
 ### Executive Brief
 The visuals provide a comprehensive overview of key business performance indicators, focusing on both monthly trends and product-level insights. They illustrate the monthly revenue trend, showing how income has fluctuated over time. Additionally, the dashboard highlights total orders, total revenue, and total profit, offering a clear snapshot of overall business performance.
@@ -52,3 +52,16 @@ Larger bubbles signify countries with higher volumes of business, indicating maj
 This insight is invaluable for strategic planning, allowing the company to optimize market efforts, allocate resources efficiently, and potentially explore areas for expansion.
 
 ![](global_view.png)
+
+### Product's details
+This visual provides a detailed performance overview of a specific product, offering a deep dive into its key metrics. By using the drillthrough feature from the Executive Brief, users can seamlessly transition to this detailed product view, where they can evaluate the performance of the selected product across multiple dimensions.
+
+The visual compares the product’s current month performance to a predefined target—set at a 10% increase over the previous month for revenue, orders, and profit. This allows users to quickly assess whether the product is on track to meet growth objectives, helping them understand the effectiveness of pricing strategies, promotional efforts, or market demand.
+
+Additionally, the visual presents a monthly breakdown of the product's revenue, orders, and profit, offering a granular look at how the product has performed over time. This helps identify seasonal patterns, sudden spikes, or declines in performance, providing valuable insights for future planning.
+
+Furthermore, the visual includes a monthly profit trend that specifically tracks the impact of price adjustments on the product's profitability. This feature enables decision-makers to understand how changes in pricing strategy affect both margins and overall performance, giving them the tools to fine-tune pricing and maximize profit.
+
+Overall, this visualization provides a powerful, data-driven perspective, allowing stakeholders to make informed decisions about product performance and strategies for growth
+
+![](product_view.png)
