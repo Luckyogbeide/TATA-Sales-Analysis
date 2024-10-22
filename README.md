@@ -65,3 +65,24 @@ Furthermore, the visual includes a monthly profit trend that specifically tracks
 Overall, this visualization provides a powerful, data-driven perspective, allowing stakeholders to make informed decisions about product performance and strategies for growth
 
 ![](product_view.png)
+
+### Country's details
+This visual offers a detailed breakdown of the performance of each country in terms of revenue, orders, and patronage, providing a country-specific view of business activity. By showcasing the performance across various countries, stakeholders can identify key markets, emerging regions, and areas of opportunity or concern.
+
+The visual also highlights the months with the highest and lowest patronage, allowing for the identification of peak seasons, off-peak periods, and potential seasonal trends that influence customer behavior in different regions. This insight is crucial for planning marketing campaigns, optimizing inventory, and aligning supply chains with demand fluctuations across countries.
+
+Additionally, the visual incorporates a period trend that tracks revenue performance over time based on the selected criteria in the matrix. This trend analysis allows users to visualize how revenue has evolved over the chosen period, whether it’s month-over-month, quarter-over-quarter, or year-over-year. By adjusting the selection matrix, stakeholders can customize the view to focus on specific timeframes, helping them assess the impact of strategic initiatives, external factors, or market changes.
+
+Together, these visuals provide a powerful, interactive way to monitor geographical performance trends, helping decision-makers tailor their strategies to maximize revenue, improve customer engagement, and drive growth in specific countries and regions
+
+![](country_view.png)
+### Customer's details
+This visual provides a comprehensive look at the performance of the top 50 customers, represented by their unique Customer IDs. By focusing on this key group, the visual offers insights into the purchasing behavior of the company's most valuable customers, enabling targeted analysis of how these top clients contribute to overall revenue.
+
+The visual highlights the months with the highest and lowest patronage, allowing users to quickly identify when each of these customers is most active and when engagement drops. This can be particularly useful for spotting seasonal trends, understanding customer purchasing cycles, and identifying opportunities to boost engagement during low-activity periods.
+
+Additionally, the visual presents a revenue period trend, which dynamically adjusts based on the selection matrix. This trend line tracks how revenue from the top 50 customers evolves over a chosen period—whether it's month-to-month, quarter-to-quarter, or year-over-year. By allowing users to filter and analyze specific timeframes, the visual helps assess the impact of sales campaigns, product launches, or other initiatives on customer purchasing behavior.
+
+This analysis provides valuable insights into customer loyalty, purchasing patterns, and revenue contribution, offering a data-driven foundation for customer retention strategies, personalized marketing efforts, and growth initiatives aimed at the company’s most critical clients
+
+![](customer_view.png)
