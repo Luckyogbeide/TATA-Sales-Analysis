@@ -12,8 +12,11 @@ In addition to identifying the key drivers behind their current performance, the
 - Top Customers: Rank by revenue, visualize in descending order, targeted for retention.
 
 ## Extraction, Transformation and Loading of Data
-The datasets were extracted from an Excel file, and the following transformations were performed using the Power Query Editor:
-Cleaning the data given in an Excel spreadsheet to ensure good quality data is retrieved by removing the null and empty spaces within data rows.
+The datasets were sourced from an `Excel file`, and several key data transformation steps were performed using the Power Query Editor to ensure the data was clean, accurate, and ready for analysis.
+
+The transformation process began with data cleaning to enhance data quality. This involved removing null values and eliminating empty spaces within data rows, ensuring consistency and completeness across the dataset. By addressing these inconsistencies, the data was optimized for analysis, reducing the risk of errors or inaccurate insights.
+
+These steps are critical for preparing high-quality data that supports reliable and meaningful results in downstream analysis.
 ## Skills/concepts demonstrated:
 The following Power Bi features were incorporated
 -  Bookmarking and Filtering
