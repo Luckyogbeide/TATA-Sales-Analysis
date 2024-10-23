@@ -16,7 +16,7 @@ The datasets were extracted from an Excel file, and the following transformation
 Cleaning the data given in an Excel spreadsheet to ensure good quality data is retrieved by removing the null and empty spaces within data rows.
 ## Skills/concepts demonstrated:
 The following Power Bi features were incorporated
--  Bookmarkig and Filtering
+-  Bookmarking and Filtering
 -  DAX and Quick measures
 -  Page Navigation
 ## The Logic
