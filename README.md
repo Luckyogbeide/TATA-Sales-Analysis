@@ -89,3 +89,45 @@ Additionally, the visual presents a revenue period trend, which dynamically adju
 This analysis provides valuable insights into customer loyalty, purchasing patterns, and revenue contribution, offering a data-driven foundation for customer retention strategies, personalized marketing efforts, and growth initiatives aimed at the company’s most critical clients
 
 ![](customer_view.png)
+
+## Findings from the Analysis
+`Revenue Trends`
+  - Overall Decline: Total Revenue showed a 9.52% decrease from December 1, 2010, to December 1, 2011, signaling a downward trend during this period. This decline could be indicative of     challenges in maintaining consistent sales or market saturation.
+  
+  - Recovery and Surge: After bottoming out, revenue started increasing significantly from June 1, 2011, with a 75.71% rise over the next five months, a notable recovery after earlier       stagnation. The revenue increased by $500,603.69, suggesting that strategic interventions or seasonal demand may have played a role.
+  
+  - Steepest Revenue Jump: The most dramatic rise occurred between June 1, 2011, and November 1, 2011, with revenue growing from $661,213.69 to $1,161,817.38, representing a 75.7%
+    increase. This period might correspond with key marketing campaigns, product launches, or favorable market conditions.
+  
+  - Exceeding the Revenue Target: By achieving $8,911,407.904 in Total Revenue, the business surpassed its target of $8,393,215.114 by 6.16%. This suggests successful efforts in revenue     generation, possibly through promotions, high-demand products, or new market entries.
+
+`Product-Specific Performance`
+  - PAPER CRAFT, LITTLE BIRDIE Dominance: The product PAPER CRAFT, LITTLE BIRDIE generated $168,469.60, significantly outperforming other items. This represented a 5.6 billion% increase     over the lowest performer, PADS TO MATCH ALL CUSHIONS, which had a negligible Total Revenue of $0.003. Such disparity highlights the varying demand and effectiveness of different        product lines.
+
+  - Revenue Disparity: The difference between the top and bottom products reflects a stark contrast in sales success. It's essential to investigate why certain products underperform       and how resources can be reallocated or marketing strategies adjusted to enhance their appeal.
+
+`Regional Performance`
+- United Kingdom as the Leading Market: The UK had the highest total orders, reaching 4,269,472, accounting for 82.40% of all orders. This dominant position suggests a strong market
+  presence in the UK, where the brand's penetration or demand appears robust.
+
+- Market Contrast: The performance in the UK is contrasted with that of Saudi Arabia, which recorded the lowest number of orders at just 80. This 5.3 million% gap between the highest
+  and lowest markets underscores the uneven global presence, indicating potential for growth in regions like Saudi Arabia.
+
+- Order Distribution: Across all 37 countries, total orders varied widely, ranging from 80 to 4.27 million, showcasing the brand’s varying degrees of market penetration globally. This
+  wide distribution could guide where resources are better allocated for maximum return.
+
+`Seasonality in Sales`
+  - November as Peak Month: November saw the highest number of orders at 681,888, which was 156.70% higher than February, the lowest month with 265,638 orders. November's peak may
+  coincide with holiday season shopping, promotional activities, or significant campaigns.
+
+- Monthly Order Distribution: November accounted for 13.16% of all orders, indicating a seasonal spike. This pattern suggests that efforts should focus on ramping up marketing and
+  inventory ahead of this peak period to capitalize on consumer behavior trends.
+
+`Customer-Specific Insights`
+- Top Customer Performance: Customer ID 14646 generated the highest revenue, contributing $280,206.02. The comparison with Customer ID 13256, which generated $0, presents an "infinity"    difference due to zero sales from this customer.
+
+- Customer Value Disparity: This vast disparity suggests the presence of high-value customers driving significant portions of revenue, possibly due to bulk purchases or frequent
+  transactions. Targeted strategies like loyalty programs or personalized marketing for these high-value customers can enhance retention and spending.
+
+`Conclusion`
+TATA Online Sales experienced a rollercoaster performance between 2010 and 2011. Despite an overall dip in revenue, strong recovery in the latter half of 2011 allowed the business to surpass its revenue targets. The large variations across products, regions, and customer behavior emphasize the need for more focused marketing strategies, regional expansion efforts, and seasonal preparation to sustain growth
